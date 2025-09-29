@@ -6,6 +6,17 @@ body {
   background-color: #232323;
 }
 
+a{
+  color:  #9dc1fa;
+  text-decoration: none;
+  background-color:  #38393b;
+}
+
+a:clicked {
+ color:  #9dc1fa;  
+ text-decoration: none;
+ background-color:  #38393b;
+}
 
 #card {
   margin: 3em auto;
